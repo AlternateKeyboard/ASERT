@@ -1,10 +1,6 @@
 # ASERT Keyboard Layout
 
-Here's the keyboard layout:
-
-    QWDF GJ UKL;
-    ASER TH NIOR
-    ZXCV BY M,./
+![ASERT](https://github.com/RandomAlly/ASERT/blob/main/ASERT.png)
 
 
 ## What is this?
