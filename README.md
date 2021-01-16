@@ -1,8 +1,14 @@
 # ASERT Keyboard Layout
 
+Here's the keyboard layout:
+
+    QWDF GJ UKL;
+    ASER TH NIOR
+    ZXCV BY M,./
 
 
 ## What is this?
+
 
 ASERT is an alternate keyboard layout. It gives a huge improvement over Qwerty with only minor changes. All letters stay on the same finger! Everything is just an up and down swap, with a 3 letter loop for the N-Y-J loop which still keeps those on the same finger.
 
