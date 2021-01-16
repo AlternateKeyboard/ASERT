@@ -58,7 +58,7 @@ This should be dead simple to learn. With so many people stuck on qwerty because
 
 ### How does this score?
 
-Ease of transition is also not possible to model! All the talk of scores can’t model how easy it is to adopt a new layout. We can run this through analysis programs, but keep in mind they don’t account for the biggest and main advantages of this layout: keeping the muscle memory and ease of transition.
+Ease of transition is also not possible to model. All the talk of scores can’t model how easy it is to adopt a new layout. We can run this through analysis programs, but keep in mind they don’t account for the biggest and main advantages of this layout: keeping the muscle memory and ease of transition.
 
 
 
@@ -95,9 +95,9 @@ You really have to reach for T and Y. I expect putting the less common G and rar
 
 ### Is the NYJ loop really that easy?
 
-That’s likely the hardest change because it’s not the same up down as the others. But it keeps all the letters on the same finger!
+That’s likely the hardest change because it’s not the same up down as the others. But it keeps all the letters on the same finger.
 
-Moving the N into the home row is worth it. When you get used to keeping your hands on the home row you realize how terrible the qwerty Y location is, putting the displaced J there is a good move from Colemak. And then putting Y in the qwerty N is a serendipitous loop that keeps all of them on the same finger!
+Moving the N into the home row is worth it. When you get used to keeping your hands on the home row you realize how terrible the qwerty Y location is, putting the displaced J there is a good move from Colemak. And then putting Y in the qwerty N is a serendipitous loop that keeps all of them on the same finger.
 
 ### But it still changes 15 keys compared to [other layout’s n keys].
 
@@ -113,7 +113,7 @@ If you want full, analyzed, designed optimization, it’s not for you.
 
 If you’re NOT heavily ingrained in qwerty, you can consider a more optimized layout. 
 
-If you can take the time to learn, consider a more optimized layout.
+If you can take the time to learn, you can consider a more optimized layout.
 
 ### Who is this for again?
 
