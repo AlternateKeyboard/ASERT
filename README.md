@@ -2,7 +2,7 @@
 
 ![ASERT](https://github.com/RandomAlly/ASERT/blob/main/ASERT.png)
 
-![ASERT heatmap](https://github.com/RandomAlly/ASERT/blob/main/ASERT_Heatmap.png)
+![ASERT heatmap](https://github.com/RandomAlly/ASERT/blob/main/ASERT%20Heatmap.png)
 
 
 ### What is this?
