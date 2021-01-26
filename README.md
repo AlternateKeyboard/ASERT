@@ -172,17 +172,20 @@ This is not too dissimilar in it's goal, but it starts with moving the E to the 
 ### ASSET:
 The home row shares a lot of characteristics. The creator of ASSET likely saw many of the same opportunities. But I think this better placement of all the other keys on the top row, bottom row, center columns. The D, J, U, K, G, Y are in better spots. This has fewer letters change fingers, no extra unnecessary changes, and this maintains more muscle memory and is easier to learn. IMO a big win over ASSET. You can also see possible changes below.
 
-## Norman:
+### Norman:
 Some users really dislike the centre column, finding it hard/tiring to reach. If that’s the case there's not many options without a lot of change. To get common letters out of the centre columns along the ASERT concepts, the best solution is the Norman layout (if you just want the T out, also see ASETG below). The notable thing about Norman is that it rebalances the fingers so the index fingers aren’t overloaded (they have a total of 6 keys to press, instead of the normal 3 keys). All the changes are to the point and well thought out for its goals. IMO it doesn't get the attention it deserves. It will have a steeper learning curve than ASERT, but less than Colemak/Workman.
+
+What I find interesting about Colemak DH's approach to unloading the centre columns is that the index fingers are still heavily loaded. Norman's approach is to transfer that to then middle and ring fingers, which is better IMO.
 
 ### Tarmak:
 Good for transition to Colemak. But imo you don’t want to stop on any one step, the result just isn’t there.
 
-## The big boys of Colemak/Dvorak/Workman:
+### The big boys of Colemak/Dvorak/Workman:
 They change a lot for optimization. The goal of ASERT is ease of transition and keeping muscle memory. Different goals for different people.
 
 
-### History and Origin of Row swap 
+
+## History and Origin of Row swap 
 
 I just happened to see row swap here.
 https://www.slant.co/options/21471/~row-swap-qwdfgy-review
