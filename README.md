@@ -69,6 +69,7 @@ Dvorak|0.944|1.519|58%|L: 44 R: 56
 Colemak|0.900|1.448|56%|L: 46 R: 54
 ASETG|0.895|1.440|55%|L: 51 R: 48
 Norman|0.876|1.409|54%|L: 51 R: 48
+
 *Source: 16.4k word / 79.5k character / 32 page compilation. 
 
 
@@ -145,7 +146,7 @@ We had a single standard: Qwerty. Except it sucks. But we had it. This isn’t a
 
 Unfortunately no, but they are on the home row at least. Much improved over Qwerty.
 
-Any changes to get T under a finger starts you down the rabbithole while breaking bigrams and trigrams. Ugh. The goal of ASERT is using your old muscle memory and an easy transition.
+Any changes to get T under a finger starts you down the rabbithole while breaking bigrams and trigrams. The goal of ASERT is using your old muscle memory and an easy transition. But you can see my other file ASETG.
 
 ### Q: A vowel in the bottom row?
 
@@ -155,7 +156,7 @@ It does seem weird doesn't it? But the letter frequency is fine. The LY bigram i
 
 ### Q: The left hand is still overloaded
 
-Yes, there’s no getting around that without moving keys to the right hand, which necessitates moving displaced keys back to the left. It gets messyand away from the goal of using muscle memory and easy transition. You can see possible changes in ASETG.
+Yes, there’s no getting around that without moving keys to the right hand, which necessitates moving displaced keys back to the left. It gets messyand away from the goal of using muscle memory and easy transition. You can see possible changes in my other file ASETG.
 
 BUT the common complaint about the left hand is tiredness. I think a large part of that is from constant reaching and stretching. Reach for E, reach for R, diagonal stretch for T. Moving ERT, even T not under a finger, should alleviate some of this. Yes you still reach for T but it’s a shorter reach. All 3 combined and it could be enough to really help*. This is subjective, so need user feedback.
  
