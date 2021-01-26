@@ -22,7 +22,7 @@ People that have touch typed in Qwerty for a long time and have lots of muscle m
 
 It’s for people that want an improved layout but don’t want to take the months to truly adapt to a new layout. (Many report a year to go back up to speed).
 
-### So what if the letters stay on the same fingers?
+### Q: So what if the letters stay on the same fingers?
 
 We've spent years and decades associating letters with fingers every time we type. That may seem like a different take on the situation but I think it’s true.
 
@@ -38,7 +38,7 @@ We often talk about associating letters with a keyboard location, but I think th
 
 I postulate that keeping the letters on the same finger will greatly improve adoption time. You 1) keep the same letter-finger association and 2) adjust the finger movement. So right out of the gate I think it wins more than half the battle. 
 
-### So this is another halfway measure...
+### Q: So this is another halfway measure...
 
 (The following numbers are subjective and made up just to convey the point.)
 
@@ -56,14 +56,23 @@ ASERT has a huge gain-to-pain ratio. It gives a very high payoff ratio. Great ba
 
 This should be dead simple to learn. With so many people stuck on qwerty because of the difficulty of changing, this is a seriously good option. Far, far, far better than qwerty with minimal effort to change. 
 
-### How does this score?
+### Q: How does this score?
 
 Ease of transition is also not possible to model. All the talk of scores can’t model how easy it is to adopt a new layout. We can run this through analysis programs, but keep in mind they don’t account for the biggest and main advantages of this layout: keeping the muscle memory and ease of transition.
 
+Keyboard|Distance|Distance|Distance|Hand Usage
+:--|:--|:--|:--|:--
+||(miles)|(km)|(% of QWERTY)|
+QWERTY|1.621|2.608|100%|L: 56 R: 44
+ASERT|1.040|1.673|64%|L: 56 R: 44
+Dvorak|0.944|1.519|58%|L: 44 R: 56
+Colemak|0.900|1.448|56%|L: 46 R: 54
+ASETG|0.895|1.440|55%|L: 51 R: 48
+Norman|0.876|1.409|54%|L: 51 R: 48
+*Source: 16.4k word / 79.5k character / 32 page compilation. 
 
 
-
-### But you are changing muscle memory.
+### Q: But you are changing muscle memory.
 
 I know what you're saying. Locations yes, but I think the association of letters with fingers is the far stronger one.
 
@@ -71,17 +80,17 @@ When I learnt Colemak I found my fingers want their old letters quite often - no
 
 The Colemak T, N, and J keys were the easiest to learn, I think because they were the same finger. All the letters that changed fingers were hard and slow to learn. 
 
-### Wait, you don’t use ASERT?
+### Q: Wait, you don’t use ASERT?
 
 I was too far into Colemak when I saw row-swap and added the NYJ loop. I no longer had that muscle memory, so the entire advantage and purpose of ASERT was already lost to me. If I saw ASERT first, I have no doubt I would have tried it.
 
-### So... Is this a good layout?
+### Q: So... Is this a good layout?
 
 ASERT is not analyzed or optimized for bigrams, alternating hands, rolls, etc. So is it good? It’s not exactly made* to be “good”. It takes advantage of swaps to get the frequent letters to the home row. If you use this you have to acknowledge it's not an analyzed, “optimized" layout, it’s just a far better one that's very, incredibly, easy as pie to transition to.
 
 *Actually it’s not made or designed at all. It’s taking advantage of some very simple swaps that happen to appear from the Qwerty layout. Really these changes have been lying under our noses the whole time.
 
-### But if it’s not optimized, what’s the point?
+### Q: But if it’s not optimized, what’s the point?
 
 To get the most commonly used keys to the home row! That will:
 
@@ -93,21 +102,21 @@ On QWERTY you have to reach up to press the E, R, diagonal stretch for the T, re
 
 You really have to reach for T and Y. I expect putting the less common G and rare J up there will really reduce strain.
 
-### Is the NYJ loop really that easy?
+### Q: Is the NYJ loop really that easy?
 
 That’s likely the hardest change because it’s not the same up down as the others. But it keeps all the letters on the same finger.
 
 Moving the N into the home row is worth it. When you get used to keeping your hands on the home row you realize how terrible the qwerty Y location is, putting the displaced J there is a good move from Colemak. And then putting Y in the qwerty N is a serendipitous loop that keeps all of them on the same finger.
 
-### But it still changes 15 keys compared to [other layout’s n keys].
+### Q: But it still changes 15 keys compared to [other layout’s n keys].
 
 There’s far more to it than the number of keys changed. Keeping all the letters on the same finger and taking advantage of existing brain and muscle memory keeps it easy and is a huge advantage. These changes are way easier to learn than completely rejumbling n number of keys.
 
-But it keeps the same finger bigrams ED and OL
+### Q: But it keeps the same finger bigrams ED and OL
 
 If you’re looking to minimize SFB you’ll want to adopt a layout that’s designed like Colemak. If you want ease of transition and to take advantage of old muscle memory, then keeping old bigrams is a feature, not a bug. 
 
-### Who is this not for?
+### Q: Who is this not for?
 
 If you want full, analyzed, designed optimization, it’s not for you.
 
@@ -115,7 +124,7 @@ If you’re NOT heavily ingrained in qwerty, you can consider a more optimized l
 
 If you can take the time to learn, you can consider a more optimized layout.
 
-### Who is this for again?
+### Q: Who is this for again?
 
 Those that want a very easy change to a much improved layout.
 
@@ -132,21 +141,21 @@ We had a single standard: Qwerty. Except it sucks. But we had it. This isn’t a
 
 # SPECIFIC DESIGN QUESTIONS
 
-### But the T (and H) isn’t under a finger.
+### Q: But the T (and H) isn’t under a finger.
 
 Unfortunately no, but they are on the home row at least. Much improved over Qwerty.
 
 Any changes to get T under a finger starts you down the rabbithole while breaking bigrams and trigrams. Ugh. The goal of ASERT is using your old muscle memory and an easy transition.
 
-### A vowel in the bottom row?
+### Q: A vowel in the bottom row?
 
 It does seem weird doesn't it? But the letter frequency is fine. The LY bigram is comfortable. Much better spot than its qwerty position. 
 
 (BTW the history of Qwerty is the vowels were placed in the top row. The A moved, but the rest remained. This gives us the whole opportunity to row swap most of them into the home row! Anyway, I think that's why a vowel in the bottom row seems weird.)
 
-### The left hand is still overloaded
+### Q: The left hand is still overloaded
 
-Yes, there’s no getting around that without moving keys to the right hand, which necessitates moving displaced keys back to the left. It gets messy very quickly and away from the goal of using muscle memory and easy transition. You can see possible changes below.
+Yes, there’s no getting around that without moving keys to the right hand, which necessitates moving displaced keys back to the left. It gets messyand away from the goal of using muscle memory and easy transition. You can see possible changes in ASETG.
 
 BUT the common complaint about the left hand is tiredness. I think a large part of that is from constant reaching and stretching. Reach for E, reach for R, diagonal stretch for T. Moving ERT, even T not under a finger, should alleviate some of this. Yes you still reach for T but it’s a shorter reach. All 3 combined and it could be enough to really help*. This is subjective, so need user feedback.
  
