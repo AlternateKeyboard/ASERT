@@ -60,15 +60,16 @@ This should be dead simple to learn. With so many people stuck on qwerty because
 
 Ease of transition is also not possible to model. All the talk of scores can’t model how easy it is to adopt a new layout. We can run this through analysis programs, but keep in mind they don’t account for the biggest and main advantages of this layout: keeping the muscle memory and ease of transition.
 
-Keyboard|Distance|Distance|Distance|Hand Usage
-:--|:--|:--|:--|:--
-||(miles)|(km)|(% of QWERTY)|
-QWERTY|1.621|2.608|100%|L: 56 R: 44
-ASERT|1.040|1.673|64%|L: 56 R: 44
-Dvorak|0.944|1.519|58%|L: 44 R: 56
-Colemak|0.900|1.448|56%|L: 46 R: 54
-ASETG|0.895|1.440|55%|L: 51 R: 48
-Norman|0.876|1.409|54%|L: 51 R: 48
+Keyboard|Distance|Distance|Distance|Hand Usage|Finger Usage|Finger Usage
+:--|:--|:--|:--|:--|:--|:--
+||(miles)|(km)|(% of QWERTY)||(L: Pinky to index|R: index to pink)
+QWERTY|1.621|2.608|100%|L: 56 R: 44|L: 9-8-18-21|R: 19-8-12-5
+ASERT|1.040|1.673|64%|L: 56 R: 44|L: 9-8-18-21|R: 19-8-12-5
+Dvorak|0.944|1.519|58%|L: 44 R: 56|L: 10-8-13-13|R: 18-14-12-12
+Colemak|0.900|1.448|56%|L: 46 R: 54|L: 9-8-10-19|R: 19-16-9-10
+ASETG|0.895|1.440|55%|L: 51 R: 48|L: 9-8-18-16|R: 19-9-12-8
+Norman|0.876|1.409|54%|L: 51 R: 48|L: 9-8-18-16|R: 14-13-12-9
+Workman|0.874|1.407|54%|L: 56 R: 44|L: 9-8-18-21|R: 19-8-12-5
 
 *Source: 16.4k word / 79.5k character / 32 page compilation. 
 
