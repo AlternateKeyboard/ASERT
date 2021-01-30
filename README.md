@@ -78,7 +78,7 @@ Workman|0.874|1.407|54%|L: 56 R: 44|L: 9-8-18-21|R: 19-8-12-5
 
 I know what you're saying. Locations yes, but I think the association of letters with fingers is the far stronger one.
 
-When I learnt Colemak I found my fingers want their old letters quite often - not the old key locations, their old letters. E.g. my right middle finger wants to type I, even in the qwerty K position. My right ring finger wants to type O, in the qwerty L position. I found my fingers were associated with the old letters and that was very hard to change,
+When I learnt Colemak I found my fingers want their old letters quite often - **not the old key locations, their old letters**. E.g. my right middle finger wants to type I, even in the qwerty K position. My right ring finger wants to type O, in the qwerty L position. I found my fingers were associated with the old **letters** and that was very hard to change,
 
 The Colemak T, N, and J keys were the easiest to learn, I think because they were the same finger. All the letters that changed fingers were hard and slow to learn. 
 
