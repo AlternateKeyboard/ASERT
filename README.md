@@ -62,7 +62,7 @@ Ease of transition is also not possible to model. All the talk of scores can’t
 
 Keyboard|Distance|Distance|Distance|Hand Usage|Finger Usage|Finger Usage
 :--|:--|:--|:--|:--|:--|:--
-||(miles)|(km)|(% of QWERTY)||(L: Pinky to index|R: index to pink)
+||(miles)|(km)|(% of QWERTY)|(key presses)|(L: Pinky to index|R: index to pinky)
 QWERTY|1.621|2.608|100%|L: 56 R: 44|L: 9-8-18-21|R: 19-8-12-5
 ASERT|1.040|1.673|64%|L: 56 R: 44|L: 9-8-18-21|R: 19-8-12-5
 Dvorak|0.944|1.519|58%|L: 44 R: 56|L: 10-8-13-13|R: 18-14-12-12
