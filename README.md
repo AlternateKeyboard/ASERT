@@ -84,7 +84,7 @@ The Colemak T, N, and J keys were the easiest to learn, I think because they wer
 
 ### Q: Wait, you don’t use ASERT?
 
-I was too far into Colemak when I saw row-swap and added the NYJ loop. I no longer had that muscle memory, so the entire advantage and purpose of ASERT was already lost to me. If I saw ASERT first, I have no doubt I would have tried it.
+I was too far into Colemak when I saw this. I no longer had that muscle memory, so the entire advantage and purpose of ASERT was already lost to me. If I saw ASERT first, I have no doubt I would have tried it.
 
 ### Q: So... Is this a good layout?
 
@@ -151,13 +151,13 @@ Any changes to get T under a finger starts you down the rabbithole while breakin
 
 ### Q: A vowel in the bottom row?
 
-It does seem weird doesn't it? But the letter frequency is fine. The LY bigram is comfortable. Much better spot than its qwerty position. 
+It does seem weird doesn't it? But the letter frequency is fine. The LY bigram seems comfortable.
 
 (BTW the history of Qwerty is the vowels were placed in the top row. The A moved, but the rest remained. This gives us the whole opportunity to row swap most of them into the home row! Anyway, I think that's why a vowel in the bottom row seems weird.)
 
 ### Q: The left hand is still overloaded
 
-Yes, there’s no getting around that without moving keys to the right hand, which necessitates moving displaced keys back to the left. It gets messyand away from the goal of using muscle memory and easy transition. You can see possible changes in my other file ASETG.
+Yes, there’s no getting around that without moving keys to the right hand, which necessitates moving displaced keys back to the left. It gets messy and away from the goal of using muscle memory and easy transition. You can see possible changes in my other file ASETG.
 
 BUT the common complaint about the left hand is tiredness. I think a large part of that is from constant reaching and stretching. Reach for E, reach for R, diagonal stretch for T. Moving ERT, even T not under a finger, should alleviate some of this. Yes you still reach for T but it’s a shorter reach. All 3 combined and it could be enough to really help*. This is subjective, so need user feedback.
  
@@ -191,15 +191,12 @@ They change a lot for optimization. The goal of ASERT is ease of transition and 
 I just happened to see row swap here.
 https://www.slant.co/options/21471/~row-swap-qwdfgy-review
 
-Created a heatmap for it: https://imgur.com/5gOjvgv
-
 May have found the original creator Phynnboi (inactive) who called it ASERTH in Dec 2008 https://forum.colemak.com/topic/42-what-makes-colemak-better-than-the-alternatives/
 
 Found another person who made it independently in 2016 and called it ASERT https://www.reddit.com/r/MechanicalKeyboards/comments/5jxsv8/i_designed_a_new_keyboard_layout_a_simple_qwerty/
 
-After looking at it for a while, I added the NYJ loop instead of U-J swap. This is a much better change, even though it breaks the pattern of just up and down, to get the common N under a finger, Y into a good spot, and infrequent J into a bad spot. Thus it becomes ASERT-NIOP instead of row swap. Heatmap: https://imgur.com/ComDNbR
+After looking at it for a while, I added the NYJ loop instead of U-J swap. This is a much better change, even though it breaks the pattern of just up and down, to get the common N under a finger, Y into a good spot, and infrequent J into a bad spot. At possible risk on confusion I'm still calling this ASERT since the other 2 never picked up traction.
 
 ### POSSIBLE CHANGES???
 
-See my other file ASETG
-
+See my other file ASETG. 
