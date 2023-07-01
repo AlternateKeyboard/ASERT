@@ -1,4 +1,6 @@
-Edit: After more work on this, I recommend the Norman keyboard layout for something easy to learn. For more improvement while keeping Qwerty similarity I recommend my layout Middlemak or Middlemak-NH https://github.com/KeyboardLayout2
+##Edit: After more work on this, I recommend the Norman keyboard layout for something easy to learn. For more improvement while keeping Qwerty similarity I recommend my layout Middlemak or Middlemak-NH https://github.com/KeyboardLayout2
+
+
 
 # ASERT Keyboard Layout
 
